@@ -1,0 +1,13 @@
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.csprojAssemblyReference.cache
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.dangky.resources
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.DangKyCD.resources
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.dangnhap.resources
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.Properties.Resources.resources
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.QuanLy.resources
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.csproj.GenerateResource.cache
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.csproj.CoreCompileInputs.cache
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\QuanLyChuyenDe.exe.config
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\QuanLyChuyenDe.exe
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\QuanLyChuyenDe.pdb
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.exe
+C:\Nguyen Thai Hiep\ptcsdl1\Doan\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.pdb
