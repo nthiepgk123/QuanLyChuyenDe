@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyChuyenDe", "QuanLyChu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{DAE93980-3B05-4DB3-8CB3-30F6175946D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{1D102FC2-D396-4455-A26D-6E902D2A14E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DAE93980-3B05-4DB3-8CB3-30F6175946D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAE93980-3B05-4DB3-8CB3-30F6175946D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAE93980-3B05-4DB3-8CB3-30F6175946D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D102FC2-D396-4455-A26D-6E902D2A14E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D102FC2-D396-4455-A26D-6E902D2A14E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D102FC2-D396-4455-A26D-6E902D2A14E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D102FC2-D396-4455-A26D-6E902D2A14E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
