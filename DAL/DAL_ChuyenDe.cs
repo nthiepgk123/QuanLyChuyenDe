@@ -9,8 +9,23 @@ using DTO;
 
 namespace DAL
 {
-    class DAL_ChuyenDe : DBConnect
+    public class DAL_ChuyenDe : DBConnect
     {
+        public DataTable GetNganh() {
+            try
+            {
+                SqlDataAdapter da = new SqlDataAdapter("select * from Nganh",_cn);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                return dt;
+            }
+            catch (Exception)
+            {
+
+                return null;
+            }
+        }
+
         public DataTable Get()
         {
             try
@@ -28,13 +43,42 @@ namespace DAL
         }
 
         DataTable dt = new DataTable();
+
+        public DAL_ChuyenDe()
+        {
+            dt = Get();
+
+            dt.PrimaryKey = new DataColumn[] { dt.Columns[0] };
+        }
+
+        public DAL_ChuyenDe(DataTable dt)
+        {
+            this.dt = dt;
+        }
+
+       public DataTable Select_String(string pMaNganh)
+        {
+            try
+            {
+                SqlDataAdapter da = new SqlDataAdapter("select * from ChuyenDe where MaNganh = '" + pMaNganh + "'", _cn);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                return dt;
+            }
+            catch (Exception)
+            {
+
+                return null;
+            }
+        }
+
         // Them Chuyen de
         public bool Insert(ChuyenDe pChuyenDe)
         {
             try
             {
                 SqlDataAdapter da = new SqlDataAdapter("Select * from ChuyenDe", _cn);
-                DataRow r = new DataRow();
+                DataRow r = dt.NewRow();
                 r["MaCD"] = pChuyenDe.MaChuyenDe;
                 r["MaNganh"] = pChuyenDe.MaNganh;
                 r["TenCD"] = pChuyenDe.TenChuyenDe;

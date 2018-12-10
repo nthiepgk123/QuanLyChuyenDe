@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
-    class DBConnect
+    public class DBConnect
     {
-       protected SqlConnection _cn = new SqlConnection(@"DESKTOP-OUGNACU\SQLEXPRESS; Database=QuanLyHocVien; Trusted_Connection=True;");
+       protected SqlConnection _cn = new SqlConnection(@"Data Source=DESKTOP-OUGNACU\SQLEXPRESS;Initial Catalog=QuanLyChuyenDe;Integrated Security=True");
     }
 }
