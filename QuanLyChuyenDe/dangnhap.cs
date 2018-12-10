@@ -31,5 +31,19 @@ namespace QuanLyChuyenDe
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DialogResult result1 = MessageBox.Show("Bạn đăng nhập thành công ", "Thông Báo", MessageBoxButtons.YesNo);
+            if (result1 == DialogResult.Yes)
+            {
+                QuanLy f = new QuanLy();
+                this.Hide();
+                f.ShowDialog();
+                this.Show();
+
+
+            }
+        }
     }
 }

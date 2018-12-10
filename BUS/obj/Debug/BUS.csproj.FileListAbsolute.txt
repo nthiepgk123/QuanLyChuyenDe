@@ -1,0 +1,11 @@
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\BUS.dll
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\BUS.pdb
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\DAL.dll
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\DTO.dll
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\DAL.pdb
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\DTO.pdb
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\obj\Debug\BUS.dll
+C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\obj\Debug\BUS.pdb
