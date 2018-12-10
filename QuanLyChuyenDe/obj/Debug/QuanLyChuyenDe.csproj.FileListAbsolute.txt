@@ -31,3 +31,23 @@ C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\Qu
 C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.csproj.CopyComplete
 C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.exe
 C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.pdb
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\QuanLyChuyenDe.exe.config
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\QuanLyChuyenDe.exe
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\QuanLyChuyenDe.pdb
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\BUS.dll
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\DTO.dll
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\DAL.dll
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\BUS.pdb
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\DTO.pdb
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\bin\Debug\DAL.pdb
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.csprojAssemblyReference.cache
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.dangky.resources
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.DangKyCD.resources
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.dangnhap.resources
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.Properties.Resources.resources
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.QuanLy.resources
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.csproj.GenerateResource.cache
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.csproj.CoreCompileInputs.cache
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.csproj.CopyComplete
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.exe
+F:\hoc\PTUDcsdl1\QuanLyChuyenDe\QuanLyChuyenDe\obj\Debug\QuanLyChuyenDe.pdb
