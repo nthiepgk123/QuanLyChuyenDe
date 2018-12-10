@@ -6,31 +6,33 @@ using System.Threading.Tasks;
 
 namespace DTO
 {
-  public class GiaoVu
+    public class GiaoVu
     {
-        private String _MAGV;
-        public String MAGV
+        private string _MAGV;
+        public string MAGV
         {
-            get { return MAGV; }
+            get { return _MAGV; }
             set { _MAGV = value; }
         }
-        private String _MAGIAOVU;
-        public String MAGIAOVU
+        private string _MAGIAOVU;
+        public string MAGIAOVU
         {
-            get { return MAGIAOVU; }
+            get { return _MAGIAOVU; }
             set { _MAGIAOVU = value; }
+
         }
         private string _USENAME;
         public string USENAME
         {
-            get { return USENAME; }
+            get { return _USENAME; }
             set { _USENAME = value; }
         }
-        public GiaoVu(String MAGV,String MAGIAOVU,String USENAME)
+        public GiaoVu(string MAGV,string MAGIAOVU,string USENAME)
         {
             this._MAGV = MAGV;
-            this._MAGIAOVU = MAGIAOVU;
             this._USENAME = USENAME;
+            this._MAGIAOVU = MAGIAOVU;
         }
+      
     }
 }

@@ -6,24 +6,24 @@ using System.Threading.Tasks;
 
 namespace DTO
 {
-   public class DangKyNhom
+   public class Nhom
     {
         private string _MANHOM;
         public string MANHOM
         {
-            get { return _MANHOM; }
+            get { return MANHOM; }
             set { _MANHOM = value; }
         }
-        private string _MSSV;
-        public string MSSV
+        private string _TENNHOM;
+        public string TENNHOM
         {
-            get { return _MSSV; }
-            set { _MSSV = value; }
+            get { return TENNHOM; }
+            set { _TENNHOM = value; }
         }
-        public DangKyNhom(string MANHOM,string MSSV)
+        public Nhom(string MANHOM,string TENNHOM)
         {
             this._MANHOM = MANHOM;
-            this._MSSV = MSSV;
+            this._TENNHOM = TENNHOM;
         }
     }
 }

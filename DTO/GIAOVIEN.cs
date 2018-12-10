@@ -6,24 +6,24 @@ using System.Threading.Tasks;
 
 namespace DTO
 {
-    public class GiaoVien
+   public class GiaoVien
     {
         private string _MAGV;
         public string MAGV
         {
-            get { return MAGV; }
+            get { return _MAGV; }
             set { _MAGV = value; }
         }
         private string _USENAME;
         public string USENAME
         {
-            get { return USENAME; }
+            get { return _USENAME; }
             set { _USENAME = value; }
         }
         private string _TENGV;
         public string TENGV
         {
-            get { return TENGV; }
+            get { return _TENGV; }
             set { _TENGV = value; }
         }
         public GiaoVien(string MAGV,string USENAME,string TENGV)
