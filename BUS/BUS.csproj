@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CBBD68BD-2D13-4EBD-868B-239ED4DF9026}</ProjectGuid>
+    <ProjectGuid>{D6B9228A-0C40-49FC-9238-22C9006CC396}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BUS</RootNamespace>
@@ -42,6 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BUS_ChuyenDe.cs" />
+    <Compile Include="BUS_DangKyNhom.cs" />
+    <Compile Include="BUS_Nhom.cs" />
+    <Compile Include="BUS_SinhVien.cs" />
+    <Compile Include="BUS_TaiKhoan.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

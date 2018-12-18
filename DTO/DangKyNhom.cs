@@ -20,7 +20,7 @@ namespace DTO
             get { return _MSSV; }
             set { _MSSV = value; }
         }
-        public DangKyNhom(string MANHOM,string MSSV)
+        public DangKyNhom()
         {
             this._MANHOM = MANHOM;
             this._MSSV = MSSV;

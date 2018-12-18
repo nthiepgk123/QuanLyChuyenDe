@@ -28,5 +28,9 @@ namespace DTO
             this._USERNAME = user;
             this._PASSWORD = pass;
         }
+
+        public TaiKhoan()
+        {
+        }
     }
 }

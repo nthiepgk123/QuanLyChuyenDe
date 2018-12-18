@@ -1,22 +1,11 @@
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\BUS.dll
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\BUS.pdb
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\DAL.dll
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\DTO.dll
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\DAL.pdb
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\bin\Debug\DTO.pdb
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\obj\Debug\BUS.csproj.CopyComplete
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\obj\Debug\BUS.dll
-C:\Users\MacBook Pro\Documents\GitHub\QuanLyChuyenDe\BUS\obj\Debug\BUS.pdb
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\bin\Debug\BUS.dll
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\bin\Debug\BUS.pdb
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\bin\Debug\DAL.dll
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\bin\Debug\DTO.dll
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\bin\Debug\DAL.pdb
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\bin\Debug\DTO.pdb
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\obj\Debug\BUS.csproj.CopyComplete
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\obj\Debug\BUS.dll
-F:\hoc\PTUDcsdl1\QuanLyChuyenDe\BUS\obj\Debug\BUS.pdb
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\bin\Debug\BUS.dll
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\bin\Debug\BUS.pdb
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\bin\Debug\DAL.dll
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\bin\Debug\DTO.dll
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\bin\Debug\DAL.pdb
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\bin\Debug\DTO.pdb
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\obj\Debug\BUS.dll
+F:\hoc\PTUDcsdl1\DoAn\QuanLyChuyenDe\BUS\obj\Debug\BUS.pdb

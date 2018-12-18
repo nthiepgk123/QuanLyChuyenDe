@@ -7,43 +7,63 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DTO;
+using BUS;
 
 namespace QuanLyChuyenDe
 {
-    public partial class dangnhap : Form
+    public partial class Dangnhap : Form
     {
-        public dangnhap()
+   
+         
+        public Dangnhap()
         {
             InitializeComponent();
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
+      
         private void button1_Click(object sender, EventArgs e)
         {
-            DialogResult result1 = MessageBox.Show("Bạn đăng nhập thành công ", "Thông Báo", MessageBoxButtons.YesNo);
-            if (result1 == DialogResult.Yes)
+            
+            if (textBox1.Text == "" || textBox2.Text == "")
             {
-                QuanLy f = new QuanLy();
-                this.Hide();
-                f.ShowDialog();
-                this.Show();
-
+                MessageBox.Show("Vui lòng nhập đầy đủ!", "Thông Báo");
+            }
+            else
+            {
+                string tk;
+                BUS_TaiKhoan bus_tk = new BUS_TaiKhoan();
+                tk = bus_tk.dangnhap(textBox1.Text, textBox2.Text);
+                if (tk != "")
+                {
+                    
+                    string ac = tk.Substring(0, 2);
+                    if (ac == "SV" || ac == "sv")
+                    {
+                        Form fsv = new DangKyCD(textBox1.Text);
+                        this.Hide();
+                        fsv.ShowDialog();
+                        this.Show();
+                    }
+                    else if (ac == "ad")
+                    {
+                        Form fad = new QuanLy();
+                        this.Hide();
+                        fad.ShowDialog();
+                        this.Show();
+                    }
+                    else if (ac == "GV" || ac == "gv")
+                    {
+                        MessageBox.Show("Form GIÁO VIÊN", "Thông báo");
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Bạn đăng nhập sai!", "Thông báo");
+                }
 
             }
         }
     }
 }
+    
+

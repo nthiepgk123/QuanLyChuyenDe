@@ -39,6 +39,6 @@ namespace DTO
             get { return _NGAYDONG; }
             set { _NGAYDONG = value; }
         }
-        public 
+        
     }
 }

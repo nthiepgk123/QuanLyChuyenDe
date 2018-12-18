@@ -42,6 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ChuyenDe.cs" />
+    <Compile Include="DangKy.cs" />
+    <Compile Include="DangKyNhom.cs" />
+    <Compile Include="GIAOVIEN.cs" />
+    <Compile Include="GiaoVu.cs" />
+    <Compile Include="MoChuyenDe.cs" />
+    <Compile Include="Nganh.cs" />
+    <Compile Include="Nhom.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SinhVien.cs" />
     <Compile Include="TaiKhoan.cs" />
